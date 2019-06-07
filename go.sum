@@ -1,6 +1,8 @@
 github.com/Knetic/govaluate v3.0.0+incompatible/go.mod h1:r7JcOSlj0wfOMncg0iLm8Leh48TZaKVeNIfJntJ2wa0=
 github.com/appleboy/gofight v2.0.0+incompatible h1:ECVMVpNJFBztDbnA7ead4Ffm6mizKKb6QyR78F+j4eY=
 github.com/appleboy/gofight v2.0.0+incompatible/go.mod h1:H/tvof1oZHnZdlBd+AeODZGkk1C+D2na0NXr0iXuZHA=
+github.com/appleboy/gofight/v2 v2.0.1-0.20190606114112-b80bb4a30253 h1:fPLS9r6Z4Yb0kl1TEbuI96/P6Qp/oiyPWgYULQnO6/0=
+github.com/appleboy/gofight/v2 v2.0.1-0.20190606114112-b80bb4a30253/go.mod h1:6E7pthKhmwss84j/zEixBNim8Q6ahhHcYOtmW5ts5vA=
 github.com/appleboy/gofight/v2 v2.1.0 h1:aAgmuTsqHmV0FWG0Fr8AK+iP5YwkaNDxVkQr9sOX5pM=
 github.com/appleboy/gofight/v2 v2.1.0/go.mod h1:S0pReKFAtAMS0SMGV1xhkRdfEB2O15es64e583Gl8o0=
 github.com/astaxie/beego v1.11.1/go.mod h1:i69hVzgauOPSw5qeyF4GVZhn7Od0yG5bbCGzmhbWxgQ=
@@ -34,6 +36,7 @@ github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db/go.mod h1:/XxbfmMg8l
 github.com/gomodule/redigo v2.0.0+incompatible/go.mod h1:B4C85qUVwatsJoIUNIfCRsp7qO0iAmpGFZ4EELWSbC4=
 github.com/gorilla/context v1.1.1/go.mod h1:kBGZzfjB9CEq2AlWe17Uuf7NDRt0dE0s8S51q0aT7Yg=
 github.com/gorilla/mux v1.7.1/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
+github.com/gorilla/mux v1.7.2/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
 github.com/gorilla/pat v0.0.0-20180118222023-199c85a7f6d1/go.mod h1:YeAe0gNeiNT5hoiZRI4yiOky6jVdNvfO2N6Kav/HmxY=
 github.com/json-iterator/go v1.1.6 h1:MrUvLMLTMxbqFJ9kzlvat/rYZqZnW3u4wkLzWTaFwKs=
 github.com/json-iterator/go v1.1.6/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
